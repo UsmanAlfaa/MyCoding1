@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(201, 212, 213);
+}
+.rounded-3{
+border: solid 4px white;
+    border-radius: 50spx;
+}
+.card-title{
+ 
+    font-weight: 900;
+   
+}
+.card-text{
+  
+  
+}
+img{
+    border: solid 2px white;
+  border-radius: 5%;
+border-top-left-radius: 5%; 
+    
+}
